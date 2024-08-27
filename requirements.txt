@@ -1,0 +1,23 @@
+# torch
+# #torchaudio==0.13.1
+# librosa==0.10.0
+# streamlit==1.22.0
+# numpy==1.23.5
+# scikit-learn==1.2.2
+# tensorflow-cpu==2.12.0
+# torch
+# streamlit
+# librosa
+# numpy
+# torch
+# sounddevice
+# soundfile
+librosa
+numpy
+torch
+streamlit
+pyaudio
+
+
+
+
